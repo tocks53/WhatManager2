@@ -32,7 +32,7 @@ class TorrentAlreadyAddedException(Exception):
 
 
 class ReplicaSet(models.Model):
-    ZONE_WHAT = 'passtheheadphones.me'
+    ZONE_WHAT = 'apollo.rip'
     ZONE_BIBLIOTIK = 'bibliotik.me'
     ZONE_MYANONAMOUSE = 'myanonamouse.net'
 
